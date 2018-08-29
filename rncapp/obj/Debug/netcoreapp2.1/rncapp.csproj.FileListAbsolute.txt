@@ -1,0 +1,14 @@
+C:\demos\NETCORE\rncapp\bin\Debug\netcoreapp2.1\rncapp.deps.json
+C:\demos\NETCORE\rncapp\bin\Debug\netcoreapp2.1\rncapp.runtimeconfig.json
+C:\demos\NETCORE\rncapp\bin\Debug\netcoreapp2.1\rncapp.runtimeconfig.dev.json
+C:\demos\NETCORE\rncapp\bin\Debug\netcoreapp2.1\rncapp.dll
+C:\demos\NETCORE\rncapp\bin\Debug\netcoreapp2.1\rncapp.pdb
+C:\demos\NETCORE\rncapp\obj\Debug\netcoreapp2.1\rncapp.csprojAssemblyReference.cache
+C:\demos\NETCORE\rncapp\obj\Debug\netcoreapp2.1\rncapp.csproj.CoreCompileInputs.cache
+C:\demos\NETCORE\rncapp\obj\Debug\netcoreapp2.1\rncapp.RazorAssemblyInfo.cache
+C:\demos\NETCORE\rncapp\obj\Debug\netcoreapp2.1\rncapp.RazorAssemblyInfo.cs
+C:\demos\NETCORE\rncapp\obj\Debug\netcoreapp2.1\rncapp.AssemblyInfoInputs.cache
+C:\demos\NETCORE\rncapp\obj\Debug\netcoreapp2.1\rncapp.AssemblyInfo.cs
+C:\demos\NETCORE\rncapp\obj\Debug\netcoreapp2.1\rncapp.RazorTargetAssemblyInfo.cache
+C:\demos\NETCORE\rncapp\obj\Debug\netcoreapp2.1\rncapp.dll
+C:\demos\NETCORE\rncapp\obj\Debug\netcoreapp2.1\rncapp.pdb
